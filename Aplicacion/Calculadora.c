@@ -3,7 +3,10 @@
 #include <string.h>
 #include <math.h>
 
+// Funciones
+void suma();
+
 int main()
 {
-    
+
 }
