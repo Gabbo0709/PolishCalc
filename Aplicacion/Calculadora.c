@@ -9,5 +9,5 @@ void resta();
 
 int main()
 {
-    
+
 }
