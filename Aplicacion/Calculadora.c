@@ -5,6 +5,7 @@
 
 // Funciones
 void suma();
+void resta();
 
 int main()
 {
